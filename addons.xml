@@ -1,45 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.lcs.repo" name="LCS XBMC Repo" version="1.0.1" provider-name="panagodac">
-        <extension point="xbmc.addon.repository" name="LCS XBMC Repo">
-                <info compressed="true">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml</info>
-                <checksum>https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master</datadir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-                <summary>XBMC Addons by LCS</summary>
-                <description>Addons by pyDev.</description>
-                <disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
-                <platform>all</platform>
-        </extension>
-</addon>
-
-<addon id="script.hello.world" name="Hello World" provider-name="zag" version="1.0.1">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0" />
-	</requires>
-	<extension library="addon.py" point="xbmc.python.script">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Popup Hello World</summary>
-		<description lang="en">Example Script to show hello world</description>
-		<license>GNU General Public License, v2</license>
-		<language />
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<email>zag@kodi.org</email>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.jpg</screenshot>
-			<screenshot>resources/screenshot-02.jpg</screenshot>
-			<screenshot>resources/screenshot-03.jpg</screenshot>
-		</assets>
-		<news>Updated the addon to use new addon.xml metadata</news>
-	</extension>
-</addon>
-
+	<addon id="repository.lcs.repo" name="LCS XBMC Repo" version="1.0.1" provider-name="panagodac">
+		<extension point="xbmc.addon.repository" name="LCS XBMC Repo">
+			<info compressed="false">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master</datadir>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary>XBMC Addons by LCS</summary>
+			<description>Addons by pyDev.</description>
+			<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+			<platform>all</platform>
+		</extension>
+	</addon>
+	<addon id="script.hello.world" name="Hello World" provider-name="zag" version="1.0.1">
+		<requires>
+			<import addon="xbmc.python" version="2.14.0" />
+		</requires>
+		<extension library="addon.py" point="xbmc.python.script">
+			<provides>executable</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<platform>all</platform>
+			<summary lang="en">Popup Hello World</summary>
+			<description lang="en">Example Script to show hello world</description>
+			<license>GNU General Public License, v2</license>
+			<language />
+			<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
+			<source>https://github.com/zag2me/script.hello.world</source>
+			<website>Kodi.tv</website>
+			<email>zag@kodi.org</email>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<screenshot>resources/screenshot-01.jpg</screenshot>
+				<screenshot>resources/screenshot-02.jpg</screenshot>
+				<screenshot>resources/screenshot-03.jpg</screenshot>
+			</assets>
+			<news>Updated the addon to use new addon.xml metadata</news>
+		</extension>
+	</addon>
 </addons>
