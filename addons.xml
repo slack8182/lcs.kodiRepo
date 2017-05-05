@@ -2,9 +2,9 @@
 <addons>
 <addon id="repository.lcs.repo" name="LCS XBMC Repo" version="1.0.1" provider-name="panagodac">
         <extension point="xbmc.addon.repository" name="LCS XBMC Repo">
-                <info compressed="true">https://github.com/naren502/lcs.kodiRepo/blob/master/addons.xml</info>
-                <checksum>https://github.com/naren502/lcs.kodiRepo/blob/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/naren502/lcs.kodiRepo</datadir>
+                <info compressed="true">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/naren502/lcs.kodiRepo/master</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>XBMC Addons by LCS</summary>
