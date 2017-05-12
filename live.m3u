@@ -1,690 +1,638 @@
 ﻿#EXTM3U
-#EXTINF:-1,RTP1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4683.ts
-#EXTINF:-1,RTP 1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4399.ts
-#EXTINF:-1,RTP 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4684.ts
-#EXTINF:-1,RTP 2
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4398.ts
-#EXTINF:-1,SIC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4685.ts
-#EXTINF:-1,SIC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4396.ts
-#EXTINF:-1,TVI HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4686.ts
-#EXTINF:-1,TVI
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4395.ts
-#EXTINF:-1,SIC NOTICIAS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4393.ts
-#EXTINF:-1,TVI 24
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4392.ts
-#EXTINF:-1,CMTV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4394.ts
-#EXTINF:-1,CMTV HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5096.ts
-#EXTINF:-1,RTP 3
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4397.ts
-#EXTINF:-1,TVI FICCAO
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4391.ts
-#EXTINF:-1,TVI REALITY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4390.ts
-#EXTINF:-1,RTL LUXEMBOURG
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4629.ts
-#EXTINF:-1,VTM HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4626.ts
-#EXTINF:-1,GLOBO
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4389.ts
-#EXTINF:-1,GLOBO PREMIUM
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4388.ts
-#EXTINF:-1,TV RECORD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4387.ts
-#EXTINF:-1,SIC MULHER
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4386.ts
-#EXTINF:-1,SIC CARAS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4385.ts
-#EXTINF:-1,SIC RADICAL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4384.ts
-#EXTINF:-1,PORTO CANAL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4383.ts
-#EXTINF:-1,RTP MEMORIA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4381.ts
-#EXTINF:-1,RTP AFRICA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4380.ts
-#EXTINF:-1,RTP MADEIRA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4379.ts
-#EXTINF:-1,RTP ACORES
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4378.ts
-#EXTINF:-1,SPORT TV +
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4377.ts
-#EXTINF:-1,SPORT TV 1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4376.ts
-#EXTINF:-1,SPORT TV 2
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4374.ts
-#EXTINF:-1,SPORT TV 3
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4372.ts
-#EXTINF:-1,SPORT TV 4
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4370.ts
-#EXTINF:-1,SPORT TV 5
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4369.ts
-#EXTINF:-1,SPORT TV 1 HQ
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5036.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4375.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4373.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4371.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4692.ts
-#EXTINF:-1,BTV 1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4368.ts
-#EXTINF:-1,BTV 1 HQ
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5037.ts
-#EXTINF:-1,BTV 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4367.ts
-#EXTINF:-1,A BOLA TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4366.ts
-#EXTINF:-1,NBA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4365.ts
-#EXTINF:-1,KOMBAT SPORTS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4687.ts
-#EXTINF:-1,FIGHT NETWORK HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4364.ts
-#EXTINF:-1,MOTORISION
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4363.ts
-#EXTINF:-1,MOTORS TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4362.ts
-#EXTINF:-1,SPORTING TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4361.ts
-#EXTINF:-1,REAL MADRID TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4360.ts
-#EXTINF:-1,EUROSPORT
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4359.ts
-#EXTINF:-1,EUROSPORT 2
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4356.ts
-#EXTINF:-1,TOROS TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4352.ts
-#EXTINF:-1,TVCINE 1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4350.ts
-#EXTINF:-1,TVCINE 2
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4349.ts
-#EXTINF:-1,TVCINE 3
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4348.ts
-#EXTINF:-1,TVCINE 4
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4347.ts
-#EXTINF:-1,TVCINE 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4346.ts
-#EXTINF:-1,TVCINE 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4345.ts
-#EXTINF:-1,TVCINE 3 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4344.ts
-#EXTINF:-1,TVCINE 4 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4343.ts
-#EXTINF:-1,TV SERIES
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4342.ts
-#EXTINF:-1,TV SERIES HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4341.ts
-#EXTINF:-1,CINEMUNDO
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4340.ts
-#EXTINF:-1,FOX MOVIES
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4339.ts
-#EXTINF:-1,MOV HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4338.ts
-#EXTINF:-1,AMC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4337.ts
-#EXTINF:-1,HOLLYWOOD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4336.ts
-#EXTINF:-1,HOLLYWOOD HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4335.ts
-#EXTINF:-1,SUNDANCE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4334.ts
-#EXTINF:-1,FOX LIFE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4333.ts
-#EXTINF:-1,FOX HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4332.ts
-#EXTINF:-1,FOX COMEDY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4331.ts
-#EXTINF:-1,FOX CRIME HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4330.ts
-#EXTINF:-1,AXN HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4329.ts
-#EXTINF:-1,AXN BLACK HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4328.ts
-#EXTINF:-1,AXN WHITE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4327.ts
-#EXTINF:-1,SYFY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4326.ts
-#EXTINF:-1,MICKEY MOUSE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5097.ts
-#EXTINF:-1,CANAL PANDA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4310.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4308.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4309.ts
-#EXTINF:-1,CARTOON NETWORK
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4307.ts
-#EXTINF:-1,BABY TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4306.ts
-#EXTINF:-1,BABY FIRST
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4302.ts
-#EXTINF:-1,NICKELODEON
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4305.ts
-#EXTINF:-1,JIM JAM
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4303.ts
-#EXTINF:-1,BIGGS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4304.ts
-#EXTINF:-1,SIC K
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4301.ts
-#EXTINF:-1,DOG TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5098.ts
-#EXTINF:-1,TLC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4325.ts
-#EXTINF:-1,CBS REALITY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4324.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4322.ts
-#EXTINF:-1,ODISSEIA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4323.ts
-#EXTINF:-1,HISTORIA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4321.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4320.ts
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4319.ts
-#EXTINF:-1,NACIONAL GEOGRAPHIC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4318.ts
-#EXTINF:-1,NAT GEO WILD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4317.ts
-#EXTINF:-1,MCS EXTREME
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4315.ts
-#EXTINF:-1,MCS LIFESTYLE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4314.ts
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4313.ts
-#EXTINF:-1,FUEL TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4355.ts
-#EXTINF:-1,PFC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4354.ts
-#EXTINF:-1,CACAVISION
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4353.ts
-#EXTINF:-1,CACA E PESCA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4351.ts
-#EXTINF:-1,A.E
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4312.ts
-#EXTINF:-1,24 KITCHEN HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4311.ts
-#EXTINF:-1,EURO NEWS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4300.ts
-#EXTINF:-1,FRANCE 24
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4299.ts
-#EXTINF:-1,SKY NEWS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4298.ts
-#EXTINF:-1,BBC WORLD NEWS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4297.ts
-#EXTINF:-1,FOX NEWS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4296.ts
-#EXTINF:-1,TV GALICIA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4295.ts
-#EXTINF:-1,FASHION TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4294.ts
-#EXTINF:-1,TPA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4286.ts
-#EXTINF:-1,CABO VERDE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4285.ts
-#EXTINF:-1,AFRO MUSIC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4289.ts
-#EXTINF:-1,C-MUSIC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4287.ts
-#EXTINF:-1,MCM POP
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4290.ts
-#EXTINF:-1,MCM TOP
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4284.ts
-#EXTINF:-1,MTV PORTUGAL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4292.ts
-#EXTINF:-1,TRACE TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4293.ts
-#EXTINF:-1,VH1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4288.ts
-#EXTINF:-1,MEZZO
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4291.ts
-
-#EXTINF:-1,BR: Band HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3733.ts
-#EXTINF:-1,BR: BIS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3720.ts
-#EXTINF:-1,BR: Discovery Channel HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3721.ts
-#EXTINF:-1,BR: Discovery Civilization
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3722.ts
-#EXTINF:-1,BR: Disney Jr
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3732.ts
-#EXTINF:-1,BR: Fox Sports
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3724.ts
-#EXTINF:-1,BR: History Channel
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3723.ts
-#EXTINF:-1,BR: Nick Jr
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3731.ts
-#EXTINF:-1,BR: SporTV 1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3725.ts
-#EXTINF:-1,BR: Telecine Action
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3726.ts
-#EXTINF:-1,BR: Telecine Cult
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3727.ts
-#EXTINF:-1,BR: AXN HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5064.ts
-#EXTINF:-1,BR: Band Sports HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5063.ts
-#EXTINF:-1,BR: Ei Maxx 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5062.ts
-#EXTINF:-1,BR: Ei Maxx HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5061.ts
-#EXTINF:-1,BR: Fox 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5060.ts
-#EXTINF:-1,BR: Fox Action HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5059.ts
-#EXTINF:-1,BR: FOX HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5058.ts
-#EXTINF:-1,BR: FOX Life HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5057.ts
-#EXTINF:-1,BR: Fox Sport HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5056.ts
-#EXTINF:-1,BR: HBO HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5055.ts
-#EXTINF:-1,BR: Record HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5054.ts
-#EXTINF:-1,BR: SBT HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5053.ts
-#EXTINF:-1,BR: Space HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5052.ts
-#EXTINF:-1,BR: Sport TV 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5051.ts
-#EXTINF:-1,BR: Sport TV 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5050.ts
-#EXTINF:-1,BR: Sport TV 3 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5049.ts
-#EXTINF:-1,BR: TBS HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5048.ts
-#EXTINF:-1,BR: TC Action HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5047.ts
-#EXTINF:-1,BR: TC Fun HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5046.ts
-#EXTINF:-1,BR: TC Pipoca HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5045.ts
-#EXTINF:-1,BR: TC Premium HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/5044.ts
-#EXTINF:-1,BR: Telecine Fun
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3728.ts
-#EXTINF:-1,BR: Telecine Premium
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3729.ts
-#EXTINF:-1,BR:HBO
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3730.ts
-#EXTINF:-1,BR:TV BRASIL HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3490.ts
-#EXTINF:-1,BR: TV ESCOLA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3491.ts
-#EXTINF:-1,BR: NGT RJ HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3489.ts
-#EXTINF:-1,BR: TV GAZETA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3492.ts
-#EXTINF:-1,ES: #0 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3251.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3248.ts
-#EXTINF:-1,ES: BABY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3202.ts
-#EXTINF:-1,ES: BARCA TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3245.ts
-#EXTINF:-1,ES: BEIN SPORTV HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3244.ts
-#EXTINF:-1,ES: BOING
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3201.ts
-#EXTINF:-1,ES: C. DISNEY CHANNEL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3272.ts
-#EXTINF:-1,ES: C. MOTO GP
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3289.ts
-#EXTINF:-1,ES: CALLE13
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3236.ts
-#EXTINF:-1,ES: C. LIGA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3238.ts
-#EXTINF:-1,ES: C. SERIES XTRA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3295.ts
-#EXTINF:-1,ES: C. FUTBOL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3240.ts
-#EXTINF:-1,ES: C. DEPORTES
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3243.ts
-#EXTINF:-1,ES: AXN HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3247.ts
-#EXTINF:-1,ES: CANAL COMEDIA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3234.ts
-#EXTINF:-1,ES: CANAL DCINE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3233.ts
-#EXTINF:-1,ES: CANAL ACCION HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3235.ts
-#EXTINF:-1,ES: 24H
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3250.ts
-#EXTINF:-1,ES: CANAL LIGA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3200.ts
-#EXTINF:-1,ES: CANAL PANDA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3199.ts
-#EXTINF:-1,ES: CANAL ESTRENOS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3232.ts
-#EXTINF:-1,ES: CANAL SERIES HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3231.ts
-#EXTINF:-1,ES: CANAL ODISEA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3228.ts
-#EXTINF:-1,ES: SYFY HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3208.ts
-#EXTINF:-1,ES: TCM
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3207.ts
-#EXTINF:-1,ES: TELECINCO HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3206.ts
-#EXTINF:-1,ES: PARAMOUNT CHANNEL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3209.ts
-#EXTINF:-1,ES: CRIMEN INVES
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3193.ts
-#EXTINF:-1,ES: CUATRO HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3226.ts
-#EXTINF:-1,ES: TELEDEPORTE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3205.ts
-#EXTINF:-1,ES: DISCOVERY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3192.ts
-#EXTINF:-1,ES: DISNEY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3224.ts
-#EXTINF:-1,ES: FDF
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3223.ts
-#EXTINF:-1,ES: ENERGY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3191.ts
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3219.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3218.ts
-#EXTINF:-1,ES: LA1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3217.ts
-#EXTINF:-1,ES: LA2
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3216.ts
-#EXTINF:-1,ES: LTC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3189.ts
-#EXTINF:-1,ES: MOVISTAR F1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3214.ts
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3213.ts
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3212.ts
-#EXTINF:-1,ES: NEOX
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3211.ts
-#EXTINF:-1,ES: NOVA
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3210.ts
-#EXTINF:-1,ES: TNT HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3183.ts
-#EXTINF:-1,ES: DCINE ESPANOL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3225.ts
-#EXTINF:-1,ES: NOVA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3307.ts
-#EXTINF:-1,ES: COSMO HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3194.ts
-#EXTINF:-1,ES: COMEDY CENTRAL
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/3195.ts
-#EXTINF:-1,DE: KIKA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4843.ts
-#EXTINF:-1,DE: 13th Street HD 1080
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4949.ts
-#EXTINF:-1,DE: 3Sat HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4948.ts
-#EXTINF:-1,DE: ANIXE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4946.ts
-#EXTINF:-1,DE: arte HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4945.ts
-#EXTINF:-1,DE: Baby TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4943.ts
-#EXTINF:-1,DE: Beate-Uhse TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4942.ts
-#EXTINF:-1,DE: Cartoon Network
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4939.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4935.ts
-#EXTINF:-1,DE: Disney Junior
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4932.ts
-#EXTINF:-1,DE: Disney XD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4931.ts
-#EXTINF:-1,DE: DMAX HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4929.ts
-#EXTINF:-1,DE: Eurosport HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4926.ts
-#EXTINF:-1,DE: Family TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4925.ts
-#EXTINF:-1,DE: Heimatkanal
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4922.ts
-#EXTINF:-1,DE: Jukebox
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4918.ts
-#EXTINF:-1,DE: Kabel 1 Classics
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4916.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4915.ts
-#EXTINF:-1,DE: Kinowelt TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4914.ts
-#EXTINF:-1,DE: N-TV HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4910.ts
-#EXTINF:-1,DE: N24 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4909.ts
-#EXTINF:-1,DE: Nat Geo Wild HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4908.ts
-#EXTINF:-1,DE: National Geographic
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4907.ts
-#EXTINF:-1,DE: Nautical HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4906.ts
-#EXTINF:-1,DE: NICKELODEON HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4905.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4904.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4903.ts
-#EXTINF:-1,DE: Pro Sieben HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4902.ts
-#EXTINF:-1,DE: Pro Sieben Maxx HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4901.ts
-#EXTINF:-1,DE: Pro7
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4900.ts
-#EXTINF:-1,DE: Romance TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4898.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4897.ts
-#EXTINF:-1,DE: RTL Crime HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4896.ts
-#EXTINF:-1,DE: RTL HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4895.ts
-#EXTINF:-1,DE: RTL Living
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4894.ts
-#EXTINF:-1,DE: RTL Nitro HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4893.ts
-#EXTINF:-1,DE: RTL Passion
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4892.ts
-#EXTINF:-1,DE: Sat.1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4891.ts
-#EXTINF:-1,DE: Sat1 Gold HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4890.ts
-#EXTINF:-1,DE: Sixx HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4889.ts
-#EXTINF:-1,DE: Sky 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4888.ts
-#EXTINF:-1,DE: Sky Action HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4885.ts
-#EXTINF:-1,DE: Sky Arts HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4884.ts
-#EXTINF:-1,DE: Sky Atlantic HD 1080
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4882.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4881.ts
-#EXTINF:-1,DE: Sky Cinema  24 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4879.ts
-#EXTINF:-1,DE: Sky Cinema   1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4880.ts
-#EXTINF:-1,DE: Sky Comedy
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4876.ts
-#EXTINF:-1,DE: Sky Emotion
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4875.ts
-#EXTINF:-1,DE: Sky Family HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4874.ts
-#EXTINF:-1,DE: Sky Krimi
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4871.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4870.ts
-#EXTINF:-1,DE: Sky Sport Austria HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4869.ts
-#EXTINF:-1,DE: Sky Sport Fanzone
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4868.ts
-#EXTINF:-1,DE: Sky Sport HD 2 1080
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4864.ts
-#EXTINF:-1,DE: Sky Sport News
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4863.ts
-#EXTINF:-1,DE: Spiegel Geschichte
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4862.ts
-#EXTINF:-1,DE: Sport 1 US HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4861.ts
-#EXTINF:-1,DE: SPORT1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4859.ts
-#EXTINF:-1,DE: Sportdigital HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4858.ts
-#EXTINF:-1,DE: Super RTL HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4857.ts
-#EXTINF:-1,DE: SyFy HD 1080
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4855.ts
-#EXTINF:-1,DE: Tele 5 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4854.ts
-#EXTINF:-1,DE: TLC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4853.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4852.ts
-#EXTINF:-1,DE: TNT Film
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4851.ts
-#EXTINF:-1,DE: TNT Serie HD 1080
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4849.ts
-#EXTINF:-1,DE: Universal HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4847.ts
-#EXTINF:-1,DE: Vox HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4845.ts
-#EXTINF:-1,DE: ZDF HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4844.ts
-#EXTINF:-1,FR: 13 EME RUE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4783.ts
-#EXTINF:-1,FR: 6TER HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4790.ts
-#EXTINF:-1,FR: AB1
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4776.ts
-#EXTINF:-1,FR: ACTION
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4756.ts
-#EXTINF:-1,FR: BEINSPORT 2 HD FR
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4748.ts
-#EXTINF:-1,FR: BEINSPORT 3 HD FR
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4747.ts
-#EXTINF:-1,FR: BFM TV
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4795.ts
-#EXTINF:-1,FR: CARTOON NETWORK
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4718.ts
-#EXTINF:-1,FR: CANAL SPORT HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4768.ts
-#EXTINF:-1,FR: CANAL SERIES HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4769.ts
-#EXTINF:-1,FR: CANAL HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4773.ts
-#EXTINF:-1,FR: CINE EMOTION
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4764.ts
-#EXTINF:-1,FR: CINE FRISSON HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4765.ts
-#EXTINF:-1,FR: Canal Family HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4770.ts
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4762.ts
-#EXTINF:-1,FR: ARTE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4801.ts
-#EXTINF:-1,FR: Cine Family HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4763.ts
-#EXTINF:-1,FR: Canal J
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4716.ts
-#EXTINF:-1,FR: BEINSPORT 1 HD FR
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4749.ts
-#EXTINF:-1,FR: FRANCE O HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4803.ts
-#EXTINF:-1,FR: FRANCE 4 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4805.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4807.ts
-#EXTINF:-1,FR: France 24
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4793.ts
-#EXTINF:-1,FR: DISCOVERY
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4737.ts
-#EXTINF:-1,FR: Boomerang HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4717.ts
-#EXTINF:-1,FR: GULLI HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4792.ts
-#EXTINF:-1,FR: GAME ONE
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4775.ts
-#EXTINF:-1,FR: France 5 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4804.ts
-#EXTINF:-1,FR: France 3 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4806.ts
-#EXTINF:-1,FR: CANAL  CINEMA HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4772.ts
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4727.ts
-#EXTINF:-1,FR: LCI
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4796.ts
-#EXTINF:-1,FR: NICKELODEON
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4719.ts
-#EXTINF:-1,FR: M6 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4802.ts
-#EXTINF:-1,FR: MANGAS
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4714.ts
-#EXTINF:-1,FR: L'EQUIPE 21
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4745.ts
-#EXTINF:-1,FR: HD1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4791.ts
-#EXTINF:-1,FR: CINE FX
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4754.ts
-#EXTINF:-1,FR: PLANETE A&E HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4738.ts
-#EXTINF:-1,FR: OCS MAX HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4759.ts
-#EXTINF:-1,FR: OCS CHOC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4760.ts
-#EXTINF:-1,FR: OCS CITY HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4761.ts
-#EXTINF:-1,FR: Nat Geo Wild
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4724.ts
-#EXTINF:-1,FR: PLANETE CI HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4739.ts
-#EXTINF:-1,FR: NT1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4798.ts
-#EXTINF:-1,FR: PIWI HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4713.ts
-#EXTINF:-1,FR: OCS GEANT HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4758.ts
+#EXTINF:-1,/// F R A N C A I S ///
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1300.ts
+#EXTINF:-1,TF1 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/282.ts
+#EXTINF:-1,TF1 (2)
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1768.ts
+#EXTINF:-1,M6 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/298.ts
+#EXTINF:-1,M6 (2)
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1769.ts
+#EXTINF:-1,W9
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/301.ts
+#EXTINF:-1,FR:FRANCE 2 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/543.ts
+#EXTINF:-1,FR:France 3 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/507.ts
+#EXTINF:-1,FR:France 4 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/510.ts
+#EXTINF:-1,FR:France 5 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/509.ts
+#EXTINF:-1,FR:France O
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/508.ts
+#EXTINF:-1,FR:6TER
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/720.ts
+#EXTINF:-1,FR: HD1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/302.ts
+#EXTINF:-1,PARIS PREMIERE HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/556.ts
+#EXTINF:-1,FR:TV5 Monde
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/721.ts
+#EXTINF:-1,FR:TV_BREIZH
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/717.ts
+#EXTINF:-1,FR:TMC HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/498.ts
+#EXTINF:-1,FR:BFM
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/719.ts
+#EXTINF:-1,------- CINEMA FR --------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1451.ts
+#EXTINF:-1,Canal Plus HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/288.ts
+#EXTINF:-1,FR: CANAL+ HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1770.ts
+#EXTINF:-1,Canal Plus Famille HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/286.ts
+#EXTINF:-1,CANAL+ Family (2)
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1771.ts
+#EXTINF:-1,Canal Plus Series HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/287.ts
+#EXTINF:-1,Canal Plus Cinema HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/290.ts
+#EXTINF:-1,CANAL+ Cinema (2)
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1772.ts
+#EXTINF:-1,Canal Plus Decale HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/289.ts
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1773.ts
+#EXTINF:-1,[FR] CineFX
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/538.ts
+#EXTINF:-1,[FR] Cine Frisson
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/539.ts
+#EXTINF:-1,CINE Frissons (2)
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1774.ts
+#EXTINF:-1,[FR] Cine Famiz.
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/540.ts
+#EXTINF:-1,[FR] Cine Emotion.
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/541.ts
+#EXTINF:-1,Cine Premiere HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/285.ts
+#EXTINF:-1,[FR] Cine Classic HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/542.ts
+#EXTINF:-1,Cine Polar
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/284.ts
+#EXTINF:-1,OCS MAX HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/349.ts
+#EXTINF:-1,OCS GEANTS HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/350.ts
+#EXTINF:-1,OCS CITY HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/351.ts
+#EXTINF:-1,OCS CHOC HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/352.ts
+#EXTINF:-1,FR:ALaCarte1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/472.ts
+#EXTINF:-1,FR:ALaCarte2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/465.ts
+#EXTINF:-1,FR:ALaCarte3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/479.ts
+#EXTINF:-1,FR:ALaCarte4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/478.ts
+#EXTINF:-1,FR:ALaCarte5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/477.ts
+#EXTINF:-1,FR:ALaCarte6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/476.ts
+#EXTINF:-1,FR:ALaCarte7
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/475.ts
+#EXTINF:-1,FR:ALaCarte8
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/466.ts
+#EXTINF:-1,FR:ALaCarte9
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/474.ts
+#EXTINF:-1,FR: ALACARTE HD 1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1791.ts
+#EXTINF:-1,FR:ALACARTE HD 2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1792.ts
+#EXTINF:-1,FR:ALACATRE HD 3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1793.ts
+#EXTINF:-1,FR:ALACATRE HD 4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1803.ts
+#EXTINF:-1,FR:ALACATRE HD 5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1810.ts
+#EXTINF:-1,FR: ALACARTE HD 6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1811.ts
+#EXTINF:-1,FR: ALACARTE HD 7
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1812.ts
+#EXTINF:-1,FR: ALACARTE HD 8
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1813.ts
+#EXTINF:-1,FR:ALACATRE HD 9
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1817.ts
+#EXTINF:-1,FR:ALACATRE HD 10
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1818.ts
+#EXTINF:-1,CANALPLAY1-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1309.ts
+#EXTINF:-1,CANALPLAY2-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1310.ts
+#EXTINF:-1,CANALPLAY3-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1311.ts
+#EXTINF:-1,CANALPLAY5-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1316.ts
+#EXTINF:-1,CANALPLAY6-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1313.ts
+#EXTINF:-1,CANALPLAY7-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1314.ts
+#EXTINF:-1,CANALPLAY8-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1308.ts
+#EXTINF:-1,CANALPLAY9-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1315.ts
+#EXTINF:-1,CINEMA BOX OFFICE FR 2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1361.ts
+#EXTINF:-1,CINEMA BOX OFFICE FR 3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1396.ts
+#EXTINF:-1,CINEMA BOX OFFICE FR 4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1399.ts
+#EXTINF:-1,CINEMA BOX OFFICE FR 5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1400.ts
+#EXTINF:-1,------- Divertissement -------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1302.ts
+#EXTINF:-1,Action HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/327.ts
+#EXTINF:-1,Comedie +
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/304.ts
+#EXTINF:-1,MCM HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1321.ts
+#EXTINF:-1,Syfy HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/295.ts
+#EXTINF:-1,FR: 13ème Rue HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/497.ts
+#EXTINF:-1,FR:NT1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/501.ts
+#EXTINF:-1,FR:D8
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/517.ts
+#EXTINF:-1,RTL9
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1336.ts
+#EXTINF:-1,FR:Cherie25 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/518.ts
+#EXTINF:-1,FR: Teva HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/571.ts
+#EXTINF:-1,FR:NUMERO_23
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/716.ts
+#EXTINF:-1,DIRECT 8 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1323.ts
+#EXTINF:-1,iTELE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1322.ts
+#EXTINF:-1,Weo
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1335.ts
+#EXTINF:-1,Antenne centre tv france
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/19.ts
+#EXTINF:-1,------- Documentaires FR -------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1453.ts
+#EXTINF:-1,Ushuaia TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/300.ts
+#EXTINF:-1,Animaux HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/275.ts
+#EXTINF:-1,FR:AB Moteurs HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/523.ts
+#EXTINF:-1,SEASON HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/557.ts
+#EXTINF:-1,TREK TV HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1324.ts
+#EXTINF:-1,CHASSE ET PECHE HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/505.ts
+#EXTINF:-1,FR_HISTOIRE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/491.ts
+#EXTINF:-1,SCIENCE ET VIE HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/329.ts
+#EXTINF:-1,FR:Discovery
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/516.ts
+#EXTINF:-1,FR_DISCOVERY_SCIENCE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/578.ts
+#EXTINF:-1,FR: PLANET HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/488.ts
+#EXTINF:-1,FR_PLANETE_CI_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/489.ts
+#EXTINF:-1,FR_PLANETE_A&E_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/490.ts
+#EXTINF:-1,[FR]Nat Geo Wild HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/294.ts
+#EXTINF:-1,FR: National Geographic HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/572.ts
+#EXTINF:-1,------- MUSIC FR -------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1452.ts
+#EXTINF:-1,M6 Music HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/269.ts
 #EXTINF:-1,FR: NRJ12 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4797.ts
-#EXTINF:-1,FR: C8
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4789.ts
-#EXTINF:-1,FR: Series Club HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4782.ts
-#EXTINF:-1,FR: RTL9 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4785.ts
-#EXTINF:-1,FR: Syfy HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4781.ts
-#EXTINF:-1,FR: TMC HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4799.ts
-#EXTINF:-1,FR: TF1 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4808.ts
-#EXTINF:-1,FR: Cine Premier HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4766.ts
-#EXTINF:-1,FR: Tiji
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4712.ts
-#EXTINF:-1,FR: DISNEY Channel
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4757.ts
-#EXTINF:-1,FR:CANAL DECALE HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4771.ts
-#EXTINF:-1,FR: W9 HD
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4800.ts
-#EXTINF:-1,FR: DISNEY JUNIOR
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4722.ts
-#EXTINF:-1,FR:TCM
-http://europaiptv.net:8000/live/ZFFiQjNL3X/K42ldjiwGY/4753.ts
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/502.ts
+#EXTINF:-1,NRJ HITS FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/263.ts
+#EXTINF:-1,FR: Mtv Hits HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/573.ts
+#EXTINF:-1,TRACE AFRICA
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1344.ts
+#EXTINF:-1,Trace Urban
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1345.ts
+#EXTINF:-1,------ Enfants FR -------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1454.ts
+#EXTINF:-1,FR:Piwi
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/499.ts
+#EXTINF:-1,Gulli
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1339.ts
+#EXTINF:-1,FR:Boing
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1338.ts
+#EXTINF:-1,FR: NICKELODEON
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1947.ts
+#EXTINF:-1,FR:TIJI HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/718.ts
+#EXTINF:-1,TELETOON +
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/303.ts
+#EXTINF:-1,FR:Canal J
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/520.ts
+#EXTINF:-1,FR:Boomerang HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/521.ts
+#EXTINF:-1,Cartoon network HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1337.ts
+#EXTINF:-1,FR: GAME ONE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/570.ts
+#EXTINF:-1,Mangas
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/503.ts
+#EXTINF:-1,FR_DISNEY_XD_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/575.ts
+#EXTINF:-1,FR_DISNEY_JUNIOR_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/576.ts
+#EXTINF:-1,FR_DISNEY_CHANNEL_ 1HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/577.ts
+#EXTINF:-1,FR:Disney Channel HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/515.ts
+#EXTINF:-1,------- Sport FR -------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1455.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1449.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1450.ts
+#EXTINF:-1,[FR]Infosport HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/328.ts
+#EXTINF:-1,Canal plus Sport
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/283.ts
+#EXTINF:-1,beiN Sport 1 HD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/345.ts
+#EXTINF:-1,beiN Sport 1 SD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1325.ts
+#EXTINF:-1,beiN Sport 2 HD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/346.ts
+#EXTINF:-1,beiN Sport 2 SD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1326.ts
+#EXTINF:-1,beiN Sport 3 HD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/347.ts
+#EXTINF:-1,beiN Sport 3 SD FR
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1327.ts
+#EXTINF:-1,BEIN MAX 4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1334.ts
+#EXTINF:-1,BEIN MAX 5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1328.ts
+#EXTINF:-1,BEIN MAX 6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1329.ts
+#EXTINF:-1,BEIN MAX 7
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1330.ts
+#EXTINF:-1,BEIN MAX 8
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1331.ts
+#EXTINF:-1,BEIN MAX 9
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1332.ts
+#EXTINF:-1,BEIN MAX 10
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1333.ts
+#EXTINF:-1,FR_SFR_SPORT_1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/493.ts
+#EXTINF:-1,FR_SFR_SPORT_2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/494.ts
+#EXTINF:-1,FR_SFR_SPORT_3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/495.ts
+#EXTINF:-1,FR:Foot 24/24
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/511.ts
+#EXTINF:-1,GOLF+
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1307.ts
+#EXTINF:-1,OL TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/555.ts
+#EXTINF:-1,FR:Lequipe 21
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/504.ts
+#EXTINF:-1,equidia live2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1232.ts
+#EXTINF:-1,FR: Equidia Live
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/569.ts
+#EXTINF:-1,FR: NBA TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/971.ts
+#EXTINF:-1,============ChainsBELG============
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/568.ts
+#EXTINF:-1,BE RTL TVI
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/559.ts
+#EXTINF:-1,BE PLUG RTL
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/560.ts
+#EXTINF:-1,BE LA UNE HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/561.ts
+#EXTINF:-1,BE LA TROIS
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/562.ts
+#EXTINF:-1,BE LA DEUX
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/563.ts
+#EXTINF:-1,BE CLUB RTL
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/564.ts
+#EXTINF:-1,BE BRUXELLES TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/565.ts
+#EXTINF:-1,BE BFM
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/566.ts
+#EXTINF:-1,BE BE SERIE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/567.ts
+#EXTINF:-1,RMZ-SERIE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1360.ts
+#EXTINF:-1,============ suisse chanel ============
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1777.ts
+#EXTINF:-1,RTS_Deux
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1776.ts
+#EXTINF:-1,FR:RTS_Un
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1775.ts
+#EXTINF:-1,============ Spain Movistar =============
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/740.ts
+#EXTINF:-1,[ES] Bein La Liga
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/735.ts
+#EXTINF:-1,ES:Bein_Sport _ES_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1876.ts
+#EXTINF:-1,ES: BEIN LA LIGA 1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1886.ts
+#EXTINF:-1,[ES] C LIGA HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/738.ts
+#EXTINF:-1,ES: C+ Futbol
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/581.ts
+#EXTINF:-1,[ES] MOVISTAR Futboll
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/724.ts
+#EXTINF:-1,ES: LA LIGATV BAR HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1885.ts
+#EXTINF:-1,ES:TELEDEPORTE_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1922.ts
+#EXTINF:-1,ES: Barca TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1875.ts
+#EXTINF:-1,[ES] Movistar Deportes 1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/726.ts
+#EXTINF:-1,ES:DEPORTES.2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1931.ts
+#EXTINF:-1,Movistar_Nat_Geo
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1242.ts
+#EXTINF:-1,Movistar_Nat_Geo_Wild
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1243.ts
+#EXTINF:-1,[ES] Movistar Toros TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/729.ts
+#EXTINF:-1,[ES] Movistar Series.
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/723.ts
+#EXTINF:-1,[ES] Movistar Series XTRA.
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/722.ts
+#EXTINF:-1,[ES] Movistar Moto GP ES
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/730.ts
+#EXTINF:-1,[ES] Movistar Golf
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/731.ts
+#EXTINF:-1,[ES] Movistar F1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/732.ts
+#EXTINF:-1,[ES] Movistar Estrenos
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/725.ts
+#EXTINF:-1,[ES] Movistar Dcine Ñ
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/733.ts
+#EXTINF:-1,ES_FOX_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1854.ts
+#EXTINF:-1,ES:FOX_LIFE_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1923.ts
+#EXTINF:-1,ES: Asturias
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1877.ts
+#EXTINF:-1,ES: Canal 4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1878.ts
+#EXTINF:-1,ES:La -SextaHD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1873.ts
+#EXTINF:-1,ES:TeleticinoHD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1874.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1888.ts
+#EXTINF:-1,ES: M. SERIES HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1884.ts
+#EXTINF:-1,ES: SYFY HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1883.ts
+#EXTINF:-1,ES: TCM HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1880.ts
+#EXTINF:-1,ES: TNT HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1881.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1879.ts
+#EXTINF:-1,ES:ANTENA 3 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1882.ts
+#EXTINF:-1,[ES] Movistar Dcine
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/734.ts
+#EXTINF:-1,[ES] MOVISTAR COMEDIA HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/727.ts
+#EXTINF:-1,[ES] MOVISTAR ACTION HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/728.ts
+#EXTINF:-1,[ES] Barca TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/736.ts
+#EXTINF:-1,[ES] Real Madrid TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/737.ts
+#EXTINF:-1,ES:AXN
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1890.ts
+#EXTINF:-1,ES:ODESSEIA
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1893.ts
+#EXTINF:-1,ES: AMC
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1897.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1894.ts
+#EXTINF:-1,ES: CLAN TVE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1896.ts
+#EXTINF:-1,ES: CUATRO
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1895.ts
+#EXTINF:-1,ES:LA_1_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1921.ts
+#EXTINF:-1,ES: TVE LA2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1898.ts
+#EXTINF:-1,ES: NOVA
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1899.ts
+#EXTINF:-1,ES: -Hollywood-Spain-HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/582.ts
+#EXTINF:-1,ES: Comedy central
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1919.ts
+#EXTINF:-1,ES: COSMO HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1918.ts
+#EXTINF:-1,ES:DISNEY XD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1891.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1892.ts
+#EXTINF:-1,ES: A&E
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1938.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1939.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD esp
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1940.ts
+#EXTINF:-1,ES: EUROSPORT 2 HD esp
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1941.ts
+#EXTINF:-1,ES: GOL TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1942.ts
+#EXTINF:-1,ES: M. PARTIDAZO HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1944.ts
+#EXTINF:-1,ES: MTV ESP
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1946.ts
+#EXTINF:-1,ES:ES: Canal #0 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1937.ts
+#EXTINF:-1,Movistar_Disney_Channel
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1241.ts
+#EXTINF:-1,ES:DISNEY_XD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1924.ts
+#EXTINF:-1,ES:NICK_Jr
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1920.ts
+#EXTINF:-1,ES: CANAL HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1953.ts
+#EXTINF:-1,ES: Crime&Investigation
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1954.ts
+#EXTINF:-1,ES: NON STOP PEOPLE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1949.ts
+#EXTINF:-1,ES: Paramount Channel
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1948.ts
+#EXTINF:-1,ES: VH1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1950.ts
+#EXTINF:-1,ES: AXN WHITE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1951.ts
+#EXTINF:-1,ES: Boing
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1952.ts
+#EXTINF:-1,ES.Energy
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1932.ts
+#EXTINF:-1,ES:TAQUILLA_1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1265.ts
+#EXTINF:-1,ES:TAQUILLA_3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1267.ts
+#EXTINF:-1,ES:TAQUILLA_4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1268.ts
+#EXTINF:-1,ES:TAQUILLA_5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1269.ts
+#EXTINF:-1,ES:TAQUILLA_6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1270.ts
+#EXTINF:-1,TAQUILLA _4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1459.ts
+#EXTINF:-1,TAQUILLA_1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1456.ts
+#EXTINF:-1,TAQUILLA_2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1457.ts
+#EXTINF:-1,TAQUILLA_3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1458.ts
+#EXTINF:-1,TAQUILLA_5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1460.ts
+#EXTINF:-1,TAQUILLA_6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1461.ts
+#EXTINF:-1,TAQUILLA_7
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1462.ts
+#EXTINF:-1,=========== SKY GERMANY ===========
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/764.ts
+#EXTINF:-1,DE_Sky_Sports_2HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/585.ts
+#EXTINF:-1,DE_Sky_Sports_1HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/586.ts
+#EXTINF:-1,DE_Sky_Bundesliga_HD1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/591.ts
+#EXTINF:-1,DE_Sky_Movies
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/587.ts
+#EXTINF:-1,DE_Sky_Emotion
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/588.ts
+#EXTINF:-1,DE_Sky_Cinema_24HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/589.ts
+#EXTINF:-1,DE_Sky_Cinema
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/590.ts
+#EXTINF:-1,DE_Sky_Action_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/592.ts
+#EXTINF:-1,DE_RTL_Passion
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/593.ts
+#EXTINF:-1,DE: ZDF
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/752.ts
+#EXTINF:-1,DE: Vox
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/753.ts
+#EXTINF:-1,DE: Sky Select4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/757.ts
+#EXTINF:-1,DE: Sky Select3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/756.ts
+#EXTINF:-1,DE: Sky Select2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/755.ts
+#EXTINF:-1,DE: Sky Select1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/754.ts
+#EXTINF:-1,NationalGeo_Wild_Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1237.ts
+#EXTINF:-1,Disney_Junior_Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1239.ts
+#EXTINF:-1,Sky_Germany_Universal_HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1240.ts
+#EXTINF:-1,DE: Das Erste HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1259.ts
+#EXTINF:-1,DE: Prosieben HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1255.ts
+#EXTINF:-1,DE: Sky Atlantic HD Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1253.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1252.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1251.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1250.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1245.ts
+#EXTINF:-1,DE: SKY SELECT-5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1244.ts
+#EXTINF:-1,DE: Super RTL HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1248.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1247.ts
+#EXTINF:-1,DE: VOX HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1246.ts
+#EXTINF:-1,=========== Albani tv ===========
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/765.ts
+#EXTINF:-1,Supersport 4 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/255.ts
+#EXTINF:-1,Supersport 3 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/254.ts
+#EXTINF:-1,Supersport 1 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/253.ts
+#EXTINF:-1,Super Sport 2HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/234.ts
+#EXTINF:-1,Arena Sport5 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/762.ts
+#EXTINF:-1,Arena Sport4 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/761.ts
+#EXTINF:-1,Arena Sport3 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/760.ts
+#EXTINF:-1,Arena Sport2 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/759.ts
+#EXTINF:-1,Arena Sport1 HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/758.ts
+
+#EXTINF:-1,------ xxx sex ------
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1957.ts
+#EXTINF:-1,XXX_Redlight HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/977.ts
+#EXTINF:-1,XXX_HUSTLER
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1225.ts
+#EXTINF:-1,XXX_Penthouse TV HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/975.ts
+#EXTINF:-1,XXX_Erotic 1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/978.ts
+#EXTINF:-1,XXX_EROTIC 2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1348.ts
+#EXTINF:-1,XXX_DORCEL TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1347.ts
+#EXTINF:-1,XXX_BRAZZERS TV
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1346.ts
+#EXTINF:-1,XXX_realitykings TV HD
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/976.ts
+#EXTINF:-1,XXX_VENUS
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/972.ts
+#EXTINF:-1,XXX_Playboy
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/973.ts
+#EXTINF:-1,XXX_Meiden Holland
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/974.ts
+#EXTINF:-1,XXX_HotClub 6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/984.ts
+#EXTINF:-1,XXX_HotClub 5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/983.ts
+#EXTINF:-1,XXX_HotClub 4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/982.ts
+#EXTINF:-1,XXX_HotClub 3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/981.ts
+#EXTINF:-1,XXX_HotClub 2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/980.ts
+#EXTINF:-1,XXX_HotClub 1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/979.ts
+#EXTINF:-1,AdultVIP: XX6
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1231.ts
+#EXTINF:-1,AdultVIP: XX5
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1230.ts
+#EXTINF:-1,AdultVIP: XX4
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1229.ts
+#EXTINF:-1,AdultVIP: XX3
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1228.ts
+#EXTINF:-1,AdultVIP: XX2
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1227.ts
+#EXTINF:-1,AdultVIP: XX1
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1226.ts
+#EXTINF:-1,XXX_MOVIE
+http://toshiba13.dyndns.org:25461/live/tiryonlter/skypp/1224.ts
