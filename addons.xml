@@ -2,9 +2,9 @@
 <addons>
 	<addon id="repository.slack.repo" name="Slack Kodi Repo" version="1.0.2" provider-name="slack">
 		<extension point="xbmc.addon.repository" name="Slack Kodi Repo">
-			<info compressed="false">https://raw.githubusercontent.com/slack8182/slacks.kodi.repo/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/slack8182/slacks.kodi.repo/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/slack8182/slacks.kodi.repo/master</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/slack8182/repository.slack.repo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/slack8182/repository.slack.repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/slack8182/repository.slack.repo/master</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Kodi Addons by Slack</summary>
